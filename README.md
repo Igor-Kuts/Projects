@@ -3,7 +3,7 @@
 
 ## Changelog
 
-### May 5, 2023
+### May 1, 2023
 
 #### Added
 - 'dfs_traversal.ipynb': Depth First Search algorith for graph traversal
