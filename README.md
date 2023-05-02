@@ -7,13 +7,15 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 2, 2023
+
+#### Added
+- 'lazy_dijkstra.ipynb': Dijkstra's shortest path on a weighted graph algorithm
+
 ### May 1, 2023
 
 #### Added
 - 'dfs_traversal.ipynb': Depth First Search algorith for graph traversal
 - 'dfs_connected_components.ipynb': Depth First Search algorith for counting connected components
 
-### Ma 2, 2023
 
-#### Added
-- 'lazy_dijkstra.ipynb': Dijkstra's shortest path on a weighted graph algorithm
