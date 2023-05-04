@@ -22,5 +22,3 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 #### Added
 - 'dfs_traversal.ipynb': Depth First Search algorith for graph traversal
 - 'dfs_connected_components.ipynb': Depth First Search algorith for counting connected components
-
-
