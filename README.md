@@ -7,6 +7,11 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 4, 2023
+
+#### Added
+- 'dfs_topological_sort.ipynb': Topological search implementation via Depth First Search algorithm
+
 ### May 2, 2023
 
 #### Added
