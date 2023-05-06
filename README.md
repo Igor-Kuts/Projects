@@ -10,25 +10,25 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 ### May 6, 2023
 
 #### Added
-- 'floyd_warshall_apsp.ipynb'
+- 'floyd_warshall_apsp.ipynb': In graph theory, the Floyd-Warshall (FW) algorithms is an All-Pairs Shortest Path (APSP) algorithm.
 
 ### May 5, 2023
 
 #### Added
-- 'bfs_shortest_path.ipynb': Breadth First Search (BFS) shortest path on an unweighted graph algorithm
+- 'bfs_shortest_path.ipynb': Breadth First Search (BFS) shortest path on an unweighted graph algorithm.
 
 ### May 4, 2023
 
 #### Added
-- 'dfs_topological_sort.ipynb': Topological search implementation via Depth First Search algorithm
+- 'dfs_topological_sort.ipynb': Topological search implementation via Depth First Search algorithm.
 
 ### May 2, 2023
 
 #### Added
-- 'lazy_dijkstra.ipynb': Dijkstra's shortest path on a weighted graph algorithm
+- 'lazy_dijkstra.ipynb': Dijkstra's shortest path on a weighted graph algorithm.
 
 ### May 1, 2023
 
 #### Added
-- 'dfs_traversal.ipynb': Depth First Search algorith for graph traversal
-- 'dfs_connected_components.ipynb': Depth First Search algorith for counting connected components
+- 'dfs_traversal.ipynb': Depth First Search algorith for graph traversal.
+- 'dfs_connected_components.ipynb': Depth First Search algorith for counting connected components.
