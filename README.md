@@ -10,7 +10,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 ### May 6, 2023
 
 #### Added
-- 'floyd_warshall_apsp.ipynb': In graph theory, the Floyd-Warshall (FW) algorithms is an All-Pairs Shortest Path (APSP) algorithm.
+- 'floyd_warshall_apsp.ipynb': In graph theory, the Floyd-Warshall (FW) algorithm is an All-Pairs Shortest Path (APSP) algorithm.
 
 ### May 5, 2023
 
