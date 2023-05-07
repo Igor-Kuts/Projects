@@ -10,7 +10,8 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 ### May 7, 2023
 
 #### Added
-- 'dfs_find_bridges' : Bridge / cut edge is any edge in a graph whose removal increases the number of connected components.
+- 'dfs_find_bridges.ipynb': Bridge / cut edge is any edge in a graph whose removal increases the number of connected components.
+- dfs_find_artPoints.ipynb': Articulation point / cut vertex is any node in the graph whose removal increases the number of connected components.
 
 ### May 6, 2023
 
