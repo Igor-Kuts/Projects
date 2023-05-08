@@ -7,6 +7,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 8, 2023
+
+#### Added
+
+- 'tarjans_scc.ipynb': Algorithm to find all Strongly Connected Components (SCCs) in a directed graph via Depth First Search
+
 ### May 7, 2023
 
 #### Added
