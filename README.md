@@ -7,6 +7,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 9, 2023
+
+#### Added
+
+- 'dfs_eulerian_path': Algorithm to find Eulerian Path in a graph, if one is present
+
 ### May 8, 2023
 
 #### Added
