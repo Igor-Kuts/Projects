@@ -7,6 +7,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 10, 2023
+
+#### Added
+
+- 'lazy_prims_mst.ipynb': Algorithm to find the Minimum Spanning Tree on a graph
+
 ### May 9, 2023
 
 #### Added
