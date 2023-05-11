@@ -7,6 +7,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 11, 2023
+
+#### Added
+
+- 'sssp_dag_topsort.ipynb': Algorithm to solve Single Sourse Shortest Path problem on a DAG
+
 ### May 10, 2023
 
 #### Added
