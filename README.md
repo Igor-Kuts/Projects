@@ -4,8 +4,13 @@
 Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion In The Quest For Work You Love"
 
 
-
 ## Changelog
+
+### May 12, 2023
+
+#### Added
+
+-'indexed_priority_queue.ipynb': Indexed Priority Queue Class implementation
 
 ### May 11, 2023
 
