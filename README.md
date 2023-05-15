@@ -6,6 +6,11 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 15,2023
+
+#### Added
+- 'eager_prims_mst': Prim's algorithm to find the Minimum Spanning Tree on a graph, *eager* verssion
+
 ### May 12, 2023
 
 #### Added
@@ -22,7 +27,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 #### Added
 
-- 'lazy_prims_mst.ipynb': Algorithm to find the Minimum Spanning Tree on a graph
+- 'lazy_prims_mst.ipynb': Prim's algorithm to find the Minimum Spanning Tree on a graph, *lazy* version
 
 ### May 9, 2023
 
