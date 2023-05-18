@@ -6,7 +6,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
-### May 15,2023
+### May 18, 2023
+
+#### Added 
+- 'rooting_tree_dfs.ipynb': An algorithm to root a tree on an undirected acyclic graph via depth first search
+
+### May 15, 2023
 
 #### Added
 - 'eager_prims_mst.ipynb': Prim's algorithm to find the Minimum Spanning Tree on a graph, *eager* version
