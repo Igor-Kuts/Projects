@@ -6,6 +6,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 19, 2023
+
+#### Added
+
+- 'find_tree_center.ipynb': An algorithm to find tree center(s)
+
 ### May 18, 2023
 
 #### Added 
