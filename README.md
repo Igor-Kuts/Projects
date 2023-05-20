@@ -6,6 +6,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 20, 2023
+
+#### Added
+
+- 'ahu_tree_encoding.ipynb' : An algorithm for tree encoding, which captures complete history of tree's degree spectrum
+
 ### May 19, 2023
 
 #### Added
