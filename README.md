@@ -6,6 +6,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 23, 2023
+
+#### Added
+
+- 'bfs_shortest_path.ipynb': An algorithm to find shortest path from Start to Exit on a 2D grid via breadth first search
+
 ### May 20, 2023
 
 #### Added
