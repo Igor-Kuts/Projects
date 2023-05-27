@@ -6,6 +6,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 27, 2023
+
+#### Added
+
+- 'edmonds_karp_max_flow_bfs.ipynb': An algorithm to find maximum network flow in the optimal manner, via BFS 
+
 ### May 25, 2023
 
 #### Added
