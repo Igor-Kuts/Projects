@@ -11,7 +11,8 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 #### Added
 
 - 'priority_queue.ipynb': A data structure that stores elements with associated priorities and retrieves them based on their priority.
-- 'stack.ipynb': A data structure that follows the Last-In-First-Out (LIFO) principle, resembling a stack of objects.
+- 'stack.ipynb': A linear data structure that follows the Last-In-First-Out (LIFO) principle, resembling a stack of objects.
+- 'queue.ipynb': A linear data structure that follows the First-In-First-Out (FIFO) principle, resembling a queue.
 
 ### May 27, 2023
 
