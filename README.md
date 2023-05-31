@@ -6,6 +6,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+### May 31, 2023
+
+#### Added
+
+- 'priority_queue.ipynb': A data structure that stores elements with associated priorities and retrieves them based on their priority.
+
 ### May 27, 2023
 
 #### Added
