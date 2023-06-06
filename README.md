@@ -11,7 +11,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 #### Added
 - **Data Structures**
 
-    - 'doubly_linked_list.ipynb': A doubly linked list data structure class implementation in Python
+    - 'doubly_linked_list.ipynb': A doubly linked list data structure implementation in Python
 
 ### May 31, 2023
 
