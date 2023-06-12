@@ -6,12 +6,19 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+## June 12, 2023
+
+#### Added
+- **Data Structures**
+
+    - 'union_find.ipynb': The Union-Find algorithm, also known as Disjoint Set Union or Merge-Find Set.
+
 ## June 06, 2023
 
 #### Added
 - **Data Structures**
 
-    - 'doubly_linked_list.ipynb': A doubly linked list data structure implementation in Python
+    - 'doubly_linked_list.ipynb': A doubly linked list data structure implementation in Python.
 
 ### May 31, 2023
 
