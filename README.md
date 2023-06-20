@@ -6,6 +6,13 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+## June 20, 2023
+
+#### Added
+- **Data Structures**
+
+    - 'binary_search_tree.ipynb': Hierarchical data structure which follows binary search tree invariant.
+
 ## June 12, 2023
 
 #### Added
