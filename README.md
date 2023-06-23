@@ -6,6 +6,16 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+## June 23, 2023
+
+#### Added
+- **Added 'Sorting Algorithms' folder**
+
+- **Sorting Algorithms**
+
+    - 'bogosort.ipynb': Recreational algorithm that serves as a cautionary example of what can go wrong when designing sorting algorithms.
+    - 'selection_sort.ipynb': Algorithm selects the smallest (or largest) element and moves it to its sorted position until the list is sorted.
+
 ## June 20, 2023
 
 #### Added
