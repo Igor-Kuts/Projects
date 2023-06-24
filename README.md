@@ -12,7 +12,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 - **Sorting Algorithms**
 
     - 'mergesort.ipynb': Divide-and-conquer sorting algorithm that recursively divides the input array into smaller subarrays, sorts them, and merges them back together.
-
+    - 'quicksort.ipynb': Widely used divide-and-conquer sorting algorithm that recursively partitions the array based on a chosen pivot element and sorts the subarrays to achieve overall sorting.
 ## June 23, 2023
 
 #### Added
