@@ -6,6 +6,13 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+## June 24, 2023
+
+#### Added
+- **Sorting Algorithms**
+
+    - 'mergesort.ipynb': Divide-and-conquer sorting algorithm that recursively divides the input array into smaller subarrays, sorts them, and merges them back together.
+
 ## June 23, 2023
 
 #### Added
