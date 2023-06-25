@@ -6,6 +6,13 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+## June 25, 2023
+
+#### Added
+- **Data Structures**
+
+    - 'min_heap.ipynb': Efficient Binary Tree based data structure for retrieval of the minimum value.
+
 ## June 24, 2023
 
 #### Added
