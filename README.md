@@ -6,6 +6,13 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+## June 26, 2023
+
+#### Added
+- **Sorting Algorithms**
+
+    - 'heapsort.ipynb': Comparison-based sorting algorithm that uses a binary heap data structure to efficiently sort data.
+
 ## June 25, 2023
 
 #### Added
