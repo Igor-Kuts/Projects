@@ -6,6 +6,13 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+## June 27, 2023
+
+#### Added
+- **Sorting Algorithms**
+
+    - 'timsort.ipynb': Stable hybrid sorting algorithm that combines Insertion Sort and Merge Sort techniques.
+
 ## June 26, 2023
 
 #### Added
