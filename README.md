@@ -6,6 +6,13 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+## June 28, 2023
+
+#### Added
+- **Sorting Algorithms**
+
+    - 'binary_insertion_sort.ipynb': Stable in-place sorting algorithm with poor time complexity on large datasets, which is most often taught as introduction to sorting algorithms.
+
 ## June 27, 2023
 
 #### Added
