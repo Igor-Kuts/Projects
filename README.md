@@ -6,6 +6,13 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+## June 29, 2023
+
+#### Added
+- **Sorting Algorithms**
+
+    - 'bubble_sort.ipynb': Simple comparison–based sorting algorithm.
+
 ## June 28, 2023
 
 #### Added
