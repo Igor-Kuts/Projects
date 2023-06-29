@@ -12,6 +12,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 - **Sorting Algorithms**
 
     - 'bubble_sort.ipynb': Simple comparison–based sorting algorithm.
+    - 'shell_sort.ipynb': An extension of the Insertion Sort algorithm that aims to improve its performance by sorting elements that are far apart before sorting nearby elements.
 
 ## June 28, 2023
 
