@@ -6,6 +6,15 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# June 30, 2023
+
+#### Added
+- **Added 'Machine Learning' folder in 'Projects'**
+
+- **Machine Learning**
+    
+    - 'binary_cross_entropy.ipynb': Binary Cross-Entropy loss function overview and computation via different methods.
+
 ## June 29, 2023
 
 #### Added
@@ -52,7 +61,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 ## June 23, 2023
 
 #### Added
-- **Added 'Sorting Algorithms' folder**
+- **Added 'Sorting Algorithms' folder in 'Projects'**
 
 - **Sorting Algorithms**
 
