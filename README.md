@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 1, 2023
+
+#### Added
+
+- **Machine Learning**
+    
+    - 'mean_squared_error.ipynb': Mean Squared Error loss function overview and computation via different methods.
+
 # June 30, 2023
 
 #### Added
