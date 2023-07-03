@@ -6,7 +6,15 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
-# July 12, 2023
+# July 3, 2023
+
+#### Added
+
+- **Machine Learning**
+    
+    - 'symmetric_mean_absolute_percentage_error.ipynb': Symmetric Mean Absolute Percentage Error function overview and computation via Numpy.
+
+# July 2, 2023
 
 #### Added
 
