@@ -6,13 +6,29 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 5, 2023
+
+- **Fixed typos**
+
+- 'symmetric_mean_absolute_percentage_error.ipynb'
+
+- **Reuploaded**
+
+    - 'mean_absolute_percentage_error.ipynb'
+
+#### Added
+
+- **Machine Learning**
+    
+    - 'categorical_cross_entropy.ipynb': Categorical Cross-Entropy Loss overview and computation with PyTorch and Numpy
+
 # July 4, 2023
 
 #### Added
 
 - **Machine Learning**
     
-    - 'mean_absolute_percentage_error.ipynb'
+    - 'mean_absolute_percentage_error.ipynb': Mean Absobulte Percantage Error overview and computation with Numpy
 
 # July 3, 2023
 
@@ -20,7 +36,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 - **Machine Learning**
     
-    - 'symmetric_mean_absolute_percentage_error.ipynb': Symmetric Mean Absolute Percentage Error function overview and computation via Numpy.
+    - 'symmetric_mean_absolute_percentage_error.ipynb': Symmetric Mean Absolute Percentage Error function overview and computation with Numpy.
 
 # July 2, 2023
 
