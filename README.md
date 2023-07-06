@@ -6,11 +6,19 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 6, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'huber_loss.ipynb': Loss function that combines the properties of Mean Squared Error and Mean Absolute Error
+
 # July 5, 2023
 
 - **Fixed typos**
 
-- 'symmetric_mean_absolute_percentage_error.ipynb'
+    - 'symmetric_mean_absolute_percentage_error.ipynb'
 
 - **Reuploaded**
 
