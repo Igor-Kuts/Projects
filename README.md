@@ -6,6 +6,12 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 7, 2023
+
+- **Improved readability**
+
+    - 'huber_loss.ipynb': fixed typos and added color – coding.
+
 # July 6, 2023
 
 #### Added
