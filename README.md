@@ -6,6 +6,15 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 8, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'confusion_matrix_TP_TN_FP_FN_F1.ipynb': Confusion Matrix detailed overview and metrics computation
+
+
 # July 7, 2023
 
 - **Improved readability**
