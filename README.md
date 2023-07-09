@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 9, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'convolution_3D.ipynb': Detailed overview of Convolutions, their implementation and applications with code
+
 # July 8, 2023
 
 #### Added
@@ -13,7 +21,6 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 - **Machine Learning**
 
     - 'confusion_matrix_TP_TN_FP_FN_F1.ipynb': Confusion Matrix detailed overview and metrics computation
-
 
 # July 7, 2023
 
