@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 10, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'perceptron.ipynb': Overview of the perceptron, the fundamental block of Machine Learning with formulas and code
+
 # July 9, 2023
 
 #### Added
