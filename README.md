@@ -12,7 +12,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 - **Machine Learning**
 
-    - 'convolution_3D.ipynb': Detailed overview of Convolutions, their implementation and applications with code
+    - 'convolution_2D.ipynb': Detailed overview of Convolutions, their implementation and applications with code
 
 # July 8, 2023
 
