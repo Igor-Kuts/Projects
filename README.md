@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 11, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'bias_variance_tradeoff.ipynb': Overview of the bias-variance tradeoff - the fundamental challenge in Machine Learning
+
 # July 10, 2023
 
 #### Added
