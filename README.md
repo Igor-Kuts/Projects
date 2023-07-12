@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 12, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'linear_regression.ipynb': Overview of the linear regression in Machine Learning with Sci-Kit Learn example.
+
 # July 11, 2023
 
 #### Added
