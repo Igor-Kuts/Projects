@@ -6,6 +6,15 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 13, 2023
+
+#### Added
+- **Added 'Working with Data' folder in 'Projects'**
+
+- **Working with Data**
+    
+    - 'data_statistics.ipynb': Concise overview of the data statistics. Their computation and visualisation.
+
 # July 12, 2023
 
 #### Added
