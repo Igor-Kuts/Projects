@@ -6,6 +6,15 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 14, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'support_vector_machines.ipynb': Overview of the Support Vector Machines in Machine Learning with Sci-Kit Learn example.
+
+
 # July 13, 2023
 
 #### Added
