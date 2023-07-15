@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 15, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'activation_functions_ML.ipynb': Overview of main activation functions used in Machine Learning.
+
 # July 14, 2023
 
 #### Added
