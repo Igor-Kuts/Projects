@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 16, 2023
+
+#### Added
+
+- **Machine Learning / Projects**
+
+    - 'breast_cancer_classification.ipynb': Multi–Layer Perceptron (MLP) model for breast tumor classification.
+
 # July 15, 2023
 
 #### Added
