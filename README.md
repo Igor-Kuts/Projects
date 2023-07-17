@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 17, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'vector_distances.ipynb': Article describing various methods for calculating distance / dissimilarity between vectors.
+
 # July 16, 2023
 
 #### Added
