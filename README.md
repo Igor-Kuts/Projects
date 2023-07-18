@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 18, 2023
+
+#### Added
+
+- **Machine Learning / Projects**
+
+    - 'kmeans_clustering.ipynb': Overview of KMeans clustering algorithm with implementation via NumPy and visualization.
+
 # July 17, 2023
 
 #### Added
