@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 19, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'roc_auc.ipynb': Overview of ROC curve and AUC with implementation via SciKit-Learn and visualization.
+
 # July 18, 2023
 
 #### Added
