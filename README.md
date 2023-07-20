@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 20, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'pca_analysis.ipynb': Overview of Principal Component Analysis dimensionality reduction technique with implementation via SciKit-Learn and NumPy + visualization.
+
 # July 19, 2023
 
 #### Added
