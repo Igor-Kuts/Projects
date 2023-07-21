@@ -12,6 +12,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 - **Machine Learning**
 
+    - 'time_series_data.ipynb': Overview of Time – Series data: it's  components, qualities, potential pitfals and techniques used for processing and analysis.
+
+# July 20, 2023
+
+#### Added
+
+- **Machine Learning**
+
     - 'pca_analysis.ipynb': Overview of Principal Component Analysis dimensionality reduction technique with implementation via SciKit-Learn and NumPy + visualization.
 
 # July 19, 2023
