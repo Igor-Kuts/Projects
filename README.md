@@ -11,8 +11,10 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 #### Added
 
 - **Working with Data**
-    - 'bernoulli_distribution.ipynb': Overview of Bernoulli distribution.
-    - 'uniform_distribution.ipynb': Overview of Discrete and Continuous Uniform distributions.
+
+    - 'binomial_distribution.ipynb': Overview of Binomial distribution with statistics and visualization.
+    - 'bernoulli_distribution.ipynb': Overview of Bernoulli distribution with statistics and visualization.
+    - 'uniform_distribution.ipynb': Overview of Discrete and Continuous Uniform distributions with statistics and visualization.
 
 # July 21, 2023
 
