@@ -6,7 +6,15 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
-# July 20, 2023
+# July 22, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'uniform_distribution.ipynb': Overview of Discrete and Continuous Uniform distributions.
+
+# July 21, 2023
 
 #### Added
 
