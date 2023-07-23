@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 23, 2023
+
+#### Added
+
+- **Working with Data**
+
+    - 'gaussian_destribution.ipynb': Overview of the Gaussian (Normal) distribution and it's properties. 
+
 # July 22, 2023
 
 #### Added
