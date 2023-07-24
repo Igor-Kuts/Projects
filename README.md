@@ -6,13 +6,22 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 24, 2023
+
+#### Added
+
+- **Working with Data**
+
+    - 'gamma_distribution.ipynb': Overview of the Gamma distribution and it's properties.
+    - 'exponential_distribution.ipynb': Overview of the Exponential distribution and it's properties. 
+
 # July 23, 2023
 
 #### Added
 
 - **Working with Data**
 
-    - 'gaussian_destribution.ipynb': Overview of the Gaussian (Normal) distribution and it's properties. 
+    - 'gaussian_distribution.ipynb': Overview of the Gaussian (Normal) distribution and it's properties. 
 
 # July 22, 2023
 
@@ -23,7 +32,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
     - 'poisson_distribution.ipynb': Overview of the Poisson distribution and it's properties. 
     - 'binomial_distribution.ipynb': Overview of the Binomial distribution and it's properties.
     - 'bernoulli_distribution.ipynb': Overview of the Bernoulli distribution and it's properties.
-    - 'uniform_distribution.ipynb': Overview of the Discrete and Continuous Uniform distributions and it's properties.
+    - 'uniform_distribution.ipynb': Overview of the Discrete and Continuous Uniform distributions and their properties.
 
 # July 21, 2023
 
