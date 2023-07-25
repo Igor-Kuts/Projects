@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 25, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'k_nearest_neighbors.ipynb': Overview of KNN Machine Learning algorithm with NumPy example.
+
 # July 24, 2023
 
 #### Added
