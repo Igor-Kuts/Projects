@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 26, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'entropy.ipynb': Overview of Entropy and it's applications in Machine Learning.
+
 # July 25, 2023
 
 #### Added
