@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 27, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'unstable_gradients_problem.ipynb': Overview of Unstable Gradients, what are they, how they impact the training process and ways to deal with them.
+
 # July 26, 2023
 
 #### Added
