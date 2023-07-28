@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 28, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'backward_propagation_of_error.ipynb.ipynb': Overview of Backpropagation, it's components, principles and importance in training Neural Networks.
+
 # July 27, 2023
 
 #### Added
