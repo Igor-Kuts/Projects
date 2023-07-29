@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 29, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'derivatives_in_ml.ipynb.ipynb': Brief overview of the role of Derivatives in Machine Learning with examples.
+
 # July 28, 2023
 
 #### Added
