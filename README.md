@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 30, 2023
+
+#### Added
+
+- **Working with Data**
+
+    - 'mle_gaussian.ipynb.ipynb': Maximum Likelihood estimation for Gaussian (Normal) distribution.
+
 # July 29, 2023
 
 #### Added
