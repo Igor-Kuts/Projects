@@ -6,13 +6,21 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# July 31, 2023
+
+#### Added
+
+- **Working with Data**
+
+    - 'beta_distribution.ipynb': Overview of Beta Distribution.
+
 # July 30, 2023
 
 #### Added
 
 - **Working with Data**
 
-    - 'mle_gaussian.ipynb.ipynb': Maximum Likelihood estimation for Gaussian (Normal) distribution.
+    - 'mle_gaussian.ipynb': Maximum Likelihood estimation for Gaussian (Normal) distribution.
 
 # July 29, 2023
 
@@ -20,7 +28,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 - **Machine Learning**
 
-    - 'derivatives_in_ml.ipynb.ipynb': Brief overview of the role of Derivatives in Machine Learning with examples.
+    - 'derivatives_in_ml.ipynb': Brief overview of the role of Derivatives in Machine Learning with examples.
 
 # July 28, 2023
 
@@ -28,7 +36,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 - **Machine Learning**
 
-    - 'backward_propagation_of_error.ipynb.ipynb': Overview of Backpropagation, it's components, principles and importance in training Neural Networks.
+    - 'backward_propagation_of_error.ipynb': Overview of Backpropagation, it's components, principles and importance in training Neural Networks.
 
 # July 27, 2023
 
