@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 1, 2023
+
+#### Added
+
+- **Working with Data**
+
+    - 'chi_squared_distribution.ipynb': Overview of Chi-Squared Distribution.
+
 # July 31, 2023
 
 #### Added
