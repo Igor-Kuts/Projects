@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 2, 2023
+
+#### Added
+
+- **Working with Data**
+
+    - 'students_t_distribution.ipynb': Overview of Student's t – Distribution.
+
 # August 1, 2023
 
 #### Added
