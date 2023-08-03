@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 3, 2023
+
+#### Added
+
+- **Working with Data**
+
+    - 'geometric_distribution.ipynb': Overview of Geometric Distribution.
+
 # August 2, 2023
 
 #### Added
