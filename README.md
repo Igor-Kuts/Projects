@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 4, 2023
+
+#### Added
+
+- **Working with Data**
+
+    - 'negative_binomial_distribution.ipynb': Overview of Negative Binomial Distribution.
+
 # August 3, 2023
 
 #### Added
