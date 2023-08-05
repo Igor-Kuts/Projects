@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 5, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'L1_lasso_regularization.ipynb': Overview of L1 (Lasso) regularization and comparison with standard linear model.
+
 # August 4, 2023
 
 #### Added
