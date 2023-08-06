@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 6, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'L2_ridge_regularization.ipynb': Overview of L2 (Ridge) regularization and comparison with standard linear model.
+
 # August 5, 2023
 
 #### Added
