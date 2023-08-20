@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 20, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'mutual_information.ipynb': Overview of Mutual Information coefficient with worked example.
+
 # August 6, 2023
 
 #### Added
