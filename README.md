@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 21, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'kullback_leibler_divergence.ipynb': Overview of Kullback–Leibler Divergence with worked example.
+
 # August 20, 2023
 
 #### Added
