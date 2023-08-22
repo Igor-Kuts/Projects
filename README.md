@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 22, 2023
+
+#### Added
+
+- **Machine Learning / Projects**
+
+    - 'decision_tree_classification.ipynb': Work in progress.
+
 # August 21, 2023
 
 #### Added
