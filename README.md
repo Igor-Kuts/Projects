@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 23, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'batch_normalization.ipynb': Detailed overview of Batch Normalization technique.
+
 # August 22, 2023
 
 #### Added
