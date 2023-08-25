@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 25, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'r_squared.ipynb': Overview of Coefficient of Determination (R2).
+
 # August 23, 2023
 
 #### Added
