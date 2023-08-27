@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 27, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'optuna.ipynb': Overview of Optuna hyper-parameter optimization library and example with CatBoost.
+
 # August 25, 2023
 
 #### Added
