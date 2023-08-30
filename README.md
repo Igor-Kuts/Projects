@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# August 30, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'weighted_average_percentage_error.ipynb': Overview of WAPE error metric and example with NumPy.
+
 # August 27, 2023
 
 #### Added
