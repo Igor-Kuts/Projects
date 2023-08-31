@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+ August 31, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'random_forest.ipynb': Overview of Random Forests, with details, implementation advice and implementation example with Sci-Kit Learn.
+
 # August 30, 2023
 
 #### Added
