@@ -6,13 +6,21 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+September 1, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'gradient_boosting.ipynb': Overview of Gradient Boosting algorithm with Gradient Boosting Machine (Regression) model example via NumPy.
+
  August 31, 2023
 
 #### Added
 
 - **Machine Learning**
 
-    - 'random_forest.ipynb': Overview of Random Forests, with details, implementation advice and implementation example with Sci-Kit Learn.
+    - 'random_forest.ipynb': Overview of Random Forests, with details, implementation advice and code example with Sci-Kit Learn.
 
 # August 30, 2023
 
