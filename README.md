@@ -6,6 +6,15 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+September 2, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'optimizing_steelmaking_process.ipynb': Machine Laerning project aimed to predict temperature in the steelmaking ladle.
+
+
 September 1, 2023
 
 #### Added
