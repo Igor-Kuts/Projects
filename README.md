@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+September 3, 2023
+
+#### Updated
+
+- **Machine Learning**
+
+    - 'gradient_boosting.ipynb': added description and history of gradient boosting.
+
 September 2, 2023
 
 #### Added
