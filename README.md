@@ -8,7 +8,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 
 
-September 11, 2023
+# September 11, 2023
 
 #### Added
 
@@ -17,7 +17,7 @@ September 11, 2023
     - Added LeetCode directory and "Easy", "Medium" and "Hard" sub-directories for relevant problems
     - '181.ipynb': added problem #181 - "Employees Earning More Than Their Managers"
     
-September 3, 2023
+# September 3, 2023
 
 #### Updated
 
@@ -25,7 +25,7 @@ September 3, 2023
 
     - 'gradient_boosting.ipynb': added description and history of gradient boosting.
 
-September 2, 2023
+# September 2, 2023
 
 #### Added
 
@@ -34,7 +34,7 @@ September 2, 2023
     - 'optimizing_steelmaking_process.ipynb': Machine Laerning project aimed to predict temperature in the steelmaking ladle.
 
 
-September 1, 2023
+# September 1, 2023
 
 #### Added
 
@@ -42,7 +42,7 @@ September 1, 2023
 
     - 'gradient_boosting.ipynb': Overview of Gradient Boosting algorithm with Gradient Boosting Machine (Regression) model example via NumPy.
 
- August 31, 2023
+# August 31, 2023
 
 #### Added
 
