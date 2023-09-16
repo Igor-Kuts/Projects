@@ -5,6 +5,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 
 ## Changelog
+
+# September 16, 2023
+
+#### Added
+
+- **Working with Data**
+
+    - 'data_validation_with_pydantic.ipynb': Overview of Pydantic library with examples.
   
 # September 3, 2023
 
