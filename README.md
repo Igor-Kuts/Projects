@@ -5,18 +5,7 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 
 ## Changelog
-
-
-
-# September 11, 2023
-
-#### Added
-
-- **LeetCode / Pandas**
-
-    - Added LeetCode directory and "Easy", "Medium" and "Hard" sub-directories for relevant problems
-    - '181.ipynb': added problem #181 - "Employees Earning More Than Their Managers"
-    
+  
 # September 3, 2023
 
 #### Updated
