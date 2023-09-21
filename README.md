@@ -6,6 +6,14 @@ Newport, Calvin (2012). "So Good They Can't Ignore You: Why Skills Trump Passion
 
 ## Changelog
 
+# September 21, 2023
+
+#### Added
+
+- **Machine Learning**
+
+    - 'decorators.ipynb': Overview of decorator functions in Python.
+
 # September 16, 2023
 
 #### Added
